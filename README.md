@@ -29,17 +29,6 @@ Welcome to the **E-Commerce** application – a Java-based desktop project simul
 
 ---
 
-## 📂 Project Structure
-
-```
-E-commerce/
-├── model/           # Data classes (e.g., Product, Order)
-├── service/         # Business logic and DB operations
-├── view/            # GUI components (Swing)
-├── Main.java        # Entry point
-└── util/            # Utility classes (e.g., DBConnection)
-```
-
 
 ## Test Cases
 
